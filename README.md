@@ -33,4 +33,4 @@ npm run build
 ```sh
 npm run lint
 ```
-<!-- Note that the saved cities are : Tehran / Mashhad / Isfahan / Tabriz  -->
+Note that the saved cities are : Tehran / Mashhad / Isfahan / Tabriz  
